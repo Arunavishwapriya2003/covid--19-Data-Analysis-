@@ -18,7 +18,7 @@ A data analysis project that explores the spread, recovery, and fatality trends 
 
 ## 📊 Datasets used
 
-🔗 -[Download Dataset](https://github.com/Arunavishwapriya2003/covid--19-Data-Analysis-/raw/main/datasets/covid_data.xlsx)
+🔗 -[Download Dataset](https://github.com/Arunavishwapriya2003/covid--19-Data-Analysis-/commit/ea8b867af716fee11b87ee879fabe28f5d9f4184)
 
 
 
