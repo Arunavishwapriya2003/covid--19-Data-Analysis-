@@ -53,8 +53,16 @@ A data analysis project that explores the spread, recovery, and fatality trends 
 
 ---
 
+Download the dataset and dashboard files using the links above.
+
+Open covid data analysis project.ipynb in Jupyter Notebook to explore the analysis.
+
 ## 🚀 Getting Started
 
-1. Clone the repository:
+--1. Clone the repository:
 ```bash
 git clone https://github.com/yourusername/covid-analysis-project.git
+
+--2.Download the dataset and dashboard files using the links above.
+
+--3.Open covid data analysis project.ipynb in Jupyter Notebook to explore the analysis.
